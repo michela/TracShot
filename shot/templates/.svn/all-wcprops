@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/2084/trac/plugins/shot-plugin/shot/templates
+END
+redirect.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/2029/trac/plugins/shot-plugin/shot/templates/redirect.html
+END
+redirect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/1923/trac/plugins/shot-plugin/shot/templates/redirect.cs
+END
+search.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/2084/trac/plugins/shot-plugin/shot/templates/search.html
+END
